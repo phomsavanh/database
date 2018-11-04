@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="insert">insert</string>
+    <string name="name">Name</string>
+    <string name="surname">surname</string>
+    <string name="marks">Marks</string>
+    <string name="view">view</string>
+    <string name="id">ID</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+</resources>
